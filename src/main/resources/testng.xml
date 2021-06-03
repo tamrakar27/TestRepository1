@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteDemoProject" verbose="1" >
+    <test name="Demo1">
+       <!-- <classes>
+            <class name="com.qa.test.CheckOperationsTest"/>
+             <class name="com.qa.test.CheckOperationTest1"/>
+            <class name="com.qa.test.CheckOperationTest2"/>
+        </classes>-->
+        <packages>
+            <package name="com.qa.test"/>
+
+        </packages>
+    </test>
+</suite>
