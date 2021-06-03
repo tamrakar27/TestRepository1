@@ -35,4 +35,9 @@ public class CheckOperationTest1 {
         int b = 20;
         Assert.assertEquals(200, a*b);
     }
+
+    @Test
+    public void newmulti(){
+        System.out.println("inside new multiplication method");
+    }
 }
