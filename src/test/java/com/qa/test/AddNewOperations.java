@@ -9,5 +9,6 @@ public class AddNewOperations {
     @Test
     public void addNew(){
         System.out.println("in AddNewOperations");
+        System.out.println("in AddNewOperations changed from repository");
     }
 }
